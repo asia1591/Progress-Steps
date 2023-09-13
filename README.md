@@ -1,6 +1,6 @@
 # PROGRESS STEPS
 
-> **Live Link:** [https://silly-piroshki-64fb09.netlify.app/](https://silly-piroshki-64fb09.netlify.app/)
+> **Live Link:**
 
 ### **At the beginning, we are greeted by a screen with the first of the progress steps selected and "prev" button is not active.** ![][img1]
 
@@ -18,7 +18,7 @@
 
 > ### Project Link
 >
-> [**https://silly-piroshki-64fb09.netlify.app/**][projectLink]
+> 
 
 ## Contact
 
